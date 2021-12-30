@@ -43,6 +43,9 @@ numbers.forEach(number => number.addEventListener("click", function() {
 // when any operator is clicked
 operators.forEach(oprtr => oprtr.addEventListener("click", function () {
     if (num2 == '') { // change to clicked operator
+        if (num1 == '') {
+            num1 = '0';
+        }
         operator = oprtr.value;
         refreshDisplay();
     } else if (num2 != '') {
