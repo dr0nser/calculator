@@ -64,7 +64,7 @@ h4 {
 }
 .company-logo {
     color: var(--light-gray);
-    font-family: serif;
+    font-family: 'Playfair Display', serif;
     font-weight: 300;
 }
 .buttons {
