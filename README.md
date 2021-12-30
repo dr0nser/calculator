@@ -11,4 +11,4 @@ This is a calculator having the UI of my father's old calculator that I put an e
 
 ### Screenshots
 
-![Calculator](./images/calculator.png)
+![Calculator](./images/calculator-home.png)
